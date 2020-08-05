@@ -1,0 +1,23 @@
+TRAINING
+training_class_0: 5923
+training_class_1: 6742
+training_class_2: 5958
+training_class_3: 6131
+training_class_4: 5842
+training_class_5: 5421
+training_class_6: 5918
+training_class_7: 6265
+training_class_8: 5851
+training_class_9: 5949
+
+TEST
+testing_class_0: 980
+testing_class_1: 1135
+testing_class_2: 1032
+testing_class_3: 1010
+testing_class_4: 982
+testing_class_5: 892
+testing_class_6: 958
+testing_class_7: 1028
+testing_class_8: 974
+testing_class_9: 1009
